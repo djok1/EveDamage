@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveDamage", "EveDamage\EveDamage.csproj", "{493E6D80-2A44-4418-BD9A-DD2DC3686135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493E6D80-2A44-4418-BD9A-DD2DC3686135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493E6D80-2A44-4418-BD9A-DD2DC3686135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493E6D80-2A44-4418-BD9A-DD2DC3686135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493E6D80-2A44-4418-BD9A-DD2DC3686135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0822A694-78D5-4087-B2D5-B301231878A3}
+	EndGlobalSection
+EndGlobal

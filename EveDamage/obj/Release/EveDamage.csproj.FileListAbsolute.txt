@@ -1,0 +1,10 @@
+E:\Projects\EveDamage\EveDamage\bin\Release\EveDamage.exe.config
+E:\Projects\EveDamage\EveDamage\bin\Release\EveDamage.exe
+E:\Projects\EveDamage\EveDamage\bin\Release\EveDamage.pdb
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.csprojAssemblyReference.cache
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.Form1.resources
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.Properties.Resources.resources
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.csproj.GenerateResource.cache
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.csproj.CoreCompileInputs.cache
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.exe
+E:\Projects\EveDamage\EveDamage\obj\Release\EveDamage.pdb
